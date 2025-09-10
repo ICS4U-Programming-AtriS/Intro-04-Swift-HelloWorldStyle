@@ -2,7 +2,7 @@
 //  HelloWorldStyle.swift
 //
 //  Created by Atri Sarker
-//  Created on 2025-Month-Day
+//  Created on 2025-09-10
 //  Version 1.0
 //  Copyright (c) 2025 Atri Sarker. All rights reserved.
 //
