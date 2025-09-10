@@ -9,5 +9,5 @@
 //  Program that simply displays Hello World.
 //  File made so that the program is accepted by swiftlint.
 
-// Displays "Hello, World!" but in purple for extra style points.
-print("\033[0;35m Hello, World!")
+// Displays "Hello, World! [But with Style]".
+print("Hello, World! [This is very Stylish]")
